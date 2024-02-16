@@ -1,12 +1,52 @@
-<h1 align="center">Hi 👋, I am Steven スティーブン</h1>
-<h3 align="center">Hai HorizonDroid</h3>
+![HorizonDroid](https://github.com/zamkara/.github/blob/main/horizon.svg) 
 
-- ⚡ Fun fact **I think I am lazy.**
+HorizonDroid
+===========
 
-[![](https://visitcount.itsvg.in/api?id=aftershock009&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC-1iuqd5PYyddAECJSBAWrA) 
+[![Download horizondroid](https://img.shields.io/sourceforge/dt/horizondroid.svg)](https://sourceforge.net/projects/horizondroid/files/latest/download)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Welcome to HorizonDroid!
+
+HorizonDroid Base On Aosp and PixelOS allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
+We currently support Android 14, with the latest security patches from Google.
+
+<p align="center">
+<img src="https://github.com/ryzenforce990/ryzenforce990/blob/main/20240210_231505.png" />
+</p>
+
+HorizonLabs:
+------------------------
+
+**HorizonLabs** Is The Feature Centre of **HorizonDroidLab**, This Tab Contains All The Features / Tweaks Which Are Added To HorizonDroidLab.
+Inside **HorizonLabs** U can find All Your Needed Features.
+
+Credits:
+-------
+ **HorizonDroid Team**
+
+### Quick Source Initialization ###
+```bash
+- HorizonDroid A14 (Ready)
+repo init -u https://github.com/HorizonDroidLab/manifest.git -b 14 --git-lfs
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+```
+
+[More build information](https://github.com/HorizonDroidLab/manifest)
+
+### Important Links
+
+- [Telegram channel](https://t.me/horizondroid)
+- [Telegram group](https://t.me/HorizonDroidChat)
+
+-----------------------------------------------------------------------------
+![HorizonDroid](https://github.com/zamkara/.github/blob/main/credit.svg)
+ Special thanks to All ROM Developers in this community
+ * [**PixelOS**](https://github.com/PixelOS-Fourteen)
+ * [**CAF**](https://source.codeaurora.org)
+ * [**AOSP**](https://android.googlesource.com)
+ * [**LineageOS**](https://github.com/LineageOS)
+ * [**DroidX-UI**](https://github.com/DroidX-UI)
+ * [**AfterlifeOS**](https://github.com/AfterLifePrjkt13)
+ * [**Evolution-X**](https://github.com/Evolution-X)
+
+-----------------------------------------------------------------------------
