@@ -1,4 +1,4 @@
-<h1 align="center"> ![SuperXorn](https://github.com/ryzenforce990/ryzenforce990/blob/main/Frame%2056.png) </h1> 
+![SuperXorn](https://github.com/ryzenforce990/ryzenforce990/blob/main/Frame%2056.png)
 
 <h1 align="center">Hi 👋, I am Steven スティーブン</h1>
 <h3 align="center">Hai HorizonDroid</h3>
